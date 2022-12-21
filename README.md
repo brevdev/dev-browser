@@ -1,7 +1,3 @@
-<boolp align="center">
-<img width="230" src="https://raw.githubusercontent.com/brevdev/assets/main/logo.svg"/>
-</p>
-
 # Dev Browser
 
 git branching for a web browser.
@@ -38,7 +34,10 @@ Branch names are .txt files with a URL per line. When you open a branch, your br
 
 ## Contributions welcome!
 
-Two things I'd like to add: 1. Syncing tabs easily (right now it's manual) 2. Setting the default browser easily
+Two things I'd like to add:
+
+1. Syncing tabs easily (right now it's manual)
+2. Setting the default browser easily
 
 ## Run this easily on Brev.dev:
 
